@@ -1,7 +1,3 @@
 This is the first commit on the txt file
 
 Another text on txt.file  Ready to Second-Commit
-
-Add main more Content
-
-Add more content on a feature branch
